@@ -8,6 +8,8 @@ Download ExtURL from [releases](https://github.com/Ry0taK/ExtURL/releases) page.
 # Usage
 ```
 $ ./ExtURL
+  -e string
+    	Select engine ("xurls" or "exturl")
   -o string
     	Output file path (default "output.txt")
   -s boolean
