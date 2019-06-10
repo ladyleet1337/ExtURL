@@ -7,6 +7,7 @@ Download ExtURL from [releases](https://github.com/Ry0taK/ExtURL/releases) page.
 
 # Usage
 ```
+$./ExtURL
   -o string
     	Output file path (default "output.txt")
   -s boolean
