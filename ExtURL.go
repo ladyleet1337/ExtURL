@@ -12,7 +12,7 @@ import (
 )
 var(
 	baseURL      = flag.String("u","","Base URL to find URLs (required)")
-	strictHost   = flag.Bool("h",true,"Whether to target only the same domain")
+	strictHost   = flag.Bool("s",true,"Whether to target only the same domain")
 	threads      = flag.Int("t",10,"Number of threads")
 	outputPath   = flag.String("o","output.txt","Output file path")
 	scanTargets []string
