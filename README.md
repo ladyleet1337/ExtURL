@@ -1,6 +1,6 @@
 # ExtURL
 ExtURL is a tiny tool that extracts a lot of URLs from one page.  
-**Warning:** The tool scans the website recursively, so a large number of requests may be sent.
+**Warning:** ExtURL scans the website recursively, so a large number of requests may be sent.
 # Installation
 
 Download ExtURL from [releases](https://github.com/Ry0taK/ExtURL/releases) page.
